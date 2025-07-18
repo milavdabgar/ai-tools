@@ -4,7 +4,7 @@
 
 The Caesar cipher, named after Julius Caesar who reportedly used it to communicate with his generals, is one of the oldest and simplest encryption techniques in cryptography. It belongs to the family of substitution ciphers where each letter in the plaintext is shifted by a fixed number of positions in the alphabet.
 
-## How It Works
+## Process Behind it
 
 The Caesar cipher uses a simple substitution method where each letter is replaced by another letter that is a fixed number of positions down the alphabet. This fixed number is called the "key" or "shift value."
 
